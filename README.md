@@ -1,27 +1,98 @@
-# 💫 About Me:
-# 👋 Hi, I'm Abdullah Alwasabi<br><br>🎓 Cybersecurity enthusiast | 🛡️ Red & Blue Teamer | 👨‍💻 Backend Developer  <br>📍 Based in Dammam, Saudi Arabia<br><br>I’m a Computer Science student at PMU with a deep passion for cybersecurity and digital defense. My journey spans everything from building threat detection systems to competing in global CTFs. I love transforming complex security concepts into practical tools and sharing knowledge through community events.<br><br>---<br><br>## 🚀 About Me<br><br>- ✅ **Completed Projects**  <br>  • Built **HMAYA**, a Security Information and Event Management (SIEM) solution integrating JWT, OpenVPN, and OpenAI for intelligent threat detection.  <br>  • Interned at **KAFD’s Digital Open Banking Division**, where I contributed to API security, testing, and documentation.<br><br>- 🧠 **Always Learning**  <br>  • Currently diving deeper into **red teaming**, **APT simulation**, and **OSCP preparation**.  <br>  • Exploring the use of AI in threat intelligence and automated security workflows.<br><br>- 🤝 **Open to Collaborate On**  <br>  • Capture The Flag (CTF) challenges  <br>  • Penetration testing or threat hunting tools  <br>  • Security-focused backend development<br><br>- 💬 **Ask Me About**  <br>  • How to get into cybersecurity as a student  <br>  • Organizing cybersecurity clubs and workshops  <br>  • Combining backend skills with InfoSec<br><br>- 🏆 **Achievements**  <br>  • 🥇 Best Senior Design Project – HMAYA  <br>  • 🌍 BlackHat MEA CTF 2023 – Top 30 Globally, Top 2 in Saudi  <br>  • 🛡️ Certified: eJPTv2, CRTP, Security+, BTL1, eCTHPv2, eCPPTv2<br><br>---<br><br>## 📫 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdullahAlwasabi-blue?logo=linkedin)](https://www.linkedin.com/in/abdullah-alwasabi)  <br>📧 abdullahalwasabi2003@gmail.com<br><br>🔗 [My Projects](https://github.com/AMT-ABDULLAH) | [HMAYA SIEM](https://github.com/AMT-ABDULLAH/HMAYA)<br><br>---<br><br>> “Security is not a product, but a process.” – Bruce Schneier  <br>
+# 👋 Hi, I'm Abdullah Alwasabi
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/	abdullah-alwasabi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahalwasabi2003@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guzrex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guzrex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guzrex&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guzrex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🛡️ Penetration Tester & SOC Analyst | Red & Blue Teamer | CVE Researcher  
+📍 Riyadh, Saudi Arabia  
+📧 abdullahalwasabi2003@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alwasabi)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guzrex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm a Computer Science graduate from **Prince Mohammed Bin Fahd University (PMU)**
+with hands-on experience in both offensive and defensive security. My work spans
+SOC operations, vulnerability research, penetration testing, and building
+security tooling from scratch.
+
+I discovered and responsibly disclosed **CVE-2026-42879**, an authenticated
+unrestricted file upload vulnerability in FacturaScripts, demonstrating
+real-world impact through coordinated disclosure with the vendor.
+
+---
+
+## 💼 Experience
+
+- 🔵 **SOC Analyst L1** — Technology Control Company (TCC) *(Oct 2025 – Present)*
+- 🔵 **SOC Analyst L1** — Innovative Solutions *(Aug – Oct 2025)*
+- 🔴 **Cybersecurity Intern** — Saudi National Bank (SNB) *(Jun – Aug 2024)*
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Best Senior Design Project** — HMAYA SIEM, PMU CCES Day
+- 🌍 **BlackHat MEA CTF 2024** — Top #50 Globally, Top #7 in Saudi
+- 🌍 **BlackHat MEA CTF 2023** — Top #30 Globally, Top #2 in Saudi
+- 🎯 **CyberWare CTF (Aramco)** — 8th Place under [Area-0]
+- 📚 **Dean's List** — Top 10%, PMU Spring 2021/2022
+
+---
+
+## 🔬 CVE Research
+
+| CVE ID | Product | Type | Severity |
+|---|---|---|---|
+| [CVE-2026-42879](https://www.cve.org/CVERecord?id=CVE-2026-42879) | FacturaScripts ≤ 2025.81 | Unrestricted File Upload (CWE-434) | Moderate |
+
+---
+
+## 🚀 Projects
+
+### 🔐 [HMAYA — SIEM Solution](https://github.com/AMT-ABDULLAH/HMAYA)
+> Award-winning senior project. Built a full SIEM platform integrating
+> OpenVPN, JWT authentication, and OpenAI-driven threat intelligence
+> for proactive risk detection and response.
+
+### 🔍 IOC Investigator — Threat Intelligence Platform
+> Queries VirusTotal, Shodan, GreyNoise and other providers, normalizes
+> results, computes severity scores, and generates HTML reports with
+> AI-powered IOC process trees.
+
+### 📋 Handover Management System — SOC Shift Platform
+> Full-stack Node.js + SQLite platform that automated SOC shift
+> transitions, reducing handover time by 65% through real-time case
+> tracking and secure authentication.
+
+---
+
+## 🎓 Certifications
+
+| Earned | In Progress |
+|---|---|
+| CompTIA Security+ | OSCP |
+| eJPTv2 | CRTP |
+| BTL1 | eCPPTv2 |
+| eCTHPv2 | OSWP |
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=guzrex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=dark&hide_border=false)
+
+---
+
+> *"Security is not a product, but a process."* — Bruce Schneier
