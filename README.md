@@ -67,12 +67,16 @@ real-world impact through coordinated disclosure with the vendor.
 
 ## 🎓 Certifications
 
-| Earned | In Progress |
+| Certification | Issuer |
 |---|---|
-| CompTIA Security+ | OSCP |
-| eJPTv2 | CRTP |
-| BTL1 | eCPPTv2 |
-| eCTHPv2 | OSWP |
+| CompTIA Security+ | CompTIA |
+| Junior Penetration Tester (eJPTv2) | INE Security |
+| Blue Team Level 1 (BTL1) | Security Blue Team |
+| Threat Hunting Professional (eCTHPv2) | INE Security |
+| Offensive Security Certified Professional (OSCP) | OffSec |
+| Certified Red Team Professional (CRTP) | Altered Security |
+| Professional Penetration Tester (eCPPTv2) | INE Security |
+| OffSec Wireless Professional (OSWP) | OffSec |
 
 ---
 
