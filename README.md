@@ -1,101 +1,166 @@
-# 👋 Hi, I'm Abdullah Alwasabi
+<div align="center">
 
-🛡️ Penetration Tester | Red Teamer | CVE Researcher  
-📍 Riyadh, Saudi Arabia  
-📧 abdullahalwasabi2003@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alwasabi)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗   ║
+║  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗  ║
+║  ███████║██████╔╝██║  ██║██║   ██║██║     ██║     ███████║  ║
+║  ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║  ║
+║  ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║  ║
+║  ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝  ║
+║                                                               ║
+║          [ PENETRATION TESTER & CVE RESEARCHER ]             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+%40+Cipher;OSCP+%7C+CRTP+%7C+OSWP+Certified;CVE-2026-42879+Researcher;BlackHat+MEA+Top+%232+Locally)](https://git.io/typing-svg)
 
-## 🧠 About Me
+<img src="https://img.shields.io/badge/Status-Available_for_Collaboration-00FF41?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=guzrex&style=for-the-badge&color=00FF41&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
-I'm a Computer Science graduate from **Prince Mohammed Bin Fahd University (PMU)**
-with hands-on experience in both offensive and defensive security. My work spans
-SOC operations, vulnerability research, penetration testing, and building
-security tooling from scratch.
-
-I discovered and responsibly disclosed **CVE-2026-42879**, an authenticated
-unrestricted file upload vulnerability in FacturaScripts, demonstrating
-real-world impact through coordinated disclosure with the vendor.
-
----
-
-## 💼 Experience
-
-- 🔵 **SOC Analyst L1** — Technology Control Company (TCC) *(Oct 2025 – May 2026)*
-- 🔴 **Cybersecurity Intern** — Saudi National Bank (SNB) *(June 2024 – Aug 2024)*
+</div>
 
 ---
 
-## 🏆 Achievements
+```bash
+┌──(abdullah㉿cipher)-[~]
+└─$ whoami
 
-- 🥇 **Best Senior Design Project** — HMAYA SIEM, PMU CCES Day
-- 🌍 **BlackHat MEA CTF 2024** — Top #50 Globally, Top #7 in Saudi
-- 🌍 **BlackHat MEA CTF 2023** — Top #30 Globally, Top #2 in Saudi
-- 🎯 **CyberWare CTF (Aramco)** — 8th Place under [Area-0]
-- 📚 **Dean's List** — Top 10%, PMU Spring 2021/2022
-
----
-
-## 🔬 CVE Research
-
-| CVE ID | Product | Type | Severity |
-|---|---|---|---|
-| [CVE-2026-42879](https://www.cve.org/CVERecord?id=CVE-2026-42879) | FacturaScripts ≤ 2025.81 | Unrestricted File Upload (CWE-434) | Moderate |
+> Penetration Tester Specialist @ Cipher, Riyadh 🇸🇦
+> CVE Researcher | Red Teamer | OSCP Certified
+> BlackHat MEA CTF — Top #2 Locally
+> 1x CVE Disclosed: CVE-2026-42879
+```
 
 ---
 
-## 🚀 Projects
+## `$ cat /etc/profile`
 
-### 🔐 [HMAYA — SIEM Solution](https://github.com/AMT-ABDULLAH/HMAYA)
-> Award-winning senior project. Built a full SIEM platform integrating
-> OpenVPN, JWT authentication, and OpenAI-driven threat intelligence
-> for proactive risk detection and response.
-
-### 🔍 IOC Investigator — Threat Intelligence Platform
-> Queries VirusTotal, Shodan, GreyNoise and other providers, normalizes
-> results, computes severity scores, and generates HTML reports with
-> AI-powered IOC process trees.
-
-### 📋 Handover Management System — SOC Shift Platform
-> Full-stack Node.js + SQLite platform that automated SOC shift
-> transitions, reducing handover time by 65% through real-time case
-> tracking and secure authentication.
+I'm a penetration tester with a strong foundation in both offensive and defensive security. I specialize in **web application & network pentesting**, **Active Directory attacks**, and **vulnerability research**. I discovered and responsibly disclosed **[CVE-2026-42879](https://github.com/guzrex/CVE-2026-42879)** — an authenticated unrestricted file upload vulnerability in FacturaScripts via MIME type bypass.
 
 ---
 
-## 🎓 Certifications
+## `$ ls -la /cve/`
 
-| Certification | Issuer |
-|---|---|
-| CompTIA Security+ | CompTIA |
-| Junior Penetration Tester (eJPTv2) | INE Security |
-| Blue Team Level 1 (BTL1) | Security Blue Team |
-| Threat Hunting Professional (eCTHPv2) | INE Security |
-| Offensive Security Certified Professional (OSCP) | OffSec |
-| Certified Red Team Professional (CRTP) | Altered Security |
-| Professional Penetration Tester (eCPPTv2) | INE Security |
-| OffSec Wireless Professional (OSWP) | OffSec |
+| CVE ID | Product | Type | Severity | Advisory |
+|--------|---------|------|----------|----------|
+| [CVE-2026-42879](https://www.cve.org/CVERecord?id=CVE-2026-42879) | FacturaScripts ≤ 2025.81 | Unrestricted File Upload — CWE-434 | 🟡 Moderate | [View PoC](https://github.com/guzrex/CVE-2026-42879) |
+
+> Bypassed MIME-type validation by prepending GIF magic bytes to PHP files, enabling server-side execution of uploaded payloads.
 
 ---
 
-## 💻 Tech Stack
+## `$ cat /etc/certifications`
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=guzrex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=dark&hide_border=false)
+```
+[+] OSCP  — Offensive Security Certified Professional ............ OffSec
+[+] OSCP+ — Offensive Security Certified Professional+ ........... OffSec
+[+] OSWP  — Offensive Wireless Professional ...................... OffSec
+[+] CRTP  — Certified Red Team Professional ...................... Altered Security
+[+] eCPPTv2 — Professional Penetration Tester ................... INE Security
+[+] eCTHPv2 — Threat Hunting Professional ....................... INE Security
+[+] eJPTv2  — Junior Penetration Tester ......................... INE Security
+[+] BTL1    — Blue Team Level 1 ................................. Security Blue Team
+[+] Security+ ..................................................  CompTIA
+```
 
 ---
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+## `$ ls /toolkit/`
+
+**Offensive**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-006400?style=flat-square&logoColor=white)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-8B0000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logoColor=white)
+
+**Scripting & Dev**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## `$ ls /projects/`
+
+### 🔴 [CVE-2026-42879 — FacturaScripts RCE](https://github.com/guzrex/CVE-2026-42879)
+```
+Authenticated unrestricted file upload via MIME type bypass.
+GIF magic bytes → PHP execution → RCE. Affects versions ≤ 2025.81
+```
+
+### 🟡 [HMAYA — Full-Stack SIEM Platform](https://github.com/AMT-ABDULLAH/HMAYA)
+```
+Award-winning senior capstone project.
+OpenVPN multi-client integration + OpenAI threat intelligence
++ real-time dashboards + role-based access + 2FA
+```
+
+### 🟢 Handover Management System
+```
+Node.js + SQLite SOC shift automation platform.
+Reduced handover time by 90% via real-time case tracking
++ JSON report generation + secure session management.
+```
+
+---
+
+## `$ cat /achievements/`
+
+```
+[★] Best Senior Design Project Award ............. PMU CCES Day, 2025
+[★] BlackHat MEA 2024 CTF ........................ Top #50 Global | Top #7 Saudi
+[★] BlackHat MEA 2023 CTF ........................ Top #30 Global | Top #2 Saudi
+[★] CyberWare CTF (Aramco) 2023 .................. 8th Place — [Area-0]
+[★] Dean's List .................................. Top 10% — PMU Spring 2021/2022
+```
+
+---
+
+## `$ neofetch --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guzrex&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+## `$ cat /contact`
+
+```python
+contact = {
+    "email"    : "abdullahalwasabi2003@gmail.com",
+    "linkedin" : "linkedin.com/in/abdullah-alwasabi",
+    "github"   : "github.com/guzrex",
+    "location" : "Riyadh, Saudi Arabia 🇸🇦"
+}
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alwasabi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guzrex)
+
+---
+
+```
+[ ACCESS GRANTED ] — Let's build. Let's break. Let's secure.
+```
+
+</div>
