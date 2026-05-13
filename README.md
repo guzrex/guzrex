@@ -23,7 +23,7 @@ real-world impact through coordinated disclosure with the vendor.
 ## 💼 Experience
 
 - 🔵 **SOC Analyst L1** — Technology Control Company (TCC) *(Oct 2025 – May 2026)*
-- 🔴 **Cybersecurity Intern** — Saudi National Bank (SNB) *(Jun – Aug 2024)*
+- 🔴 **Cybersecurity Intern** — Saudi National Bank (SNB) *(June 2024 – Aug 2024)*
 
 ---
 
