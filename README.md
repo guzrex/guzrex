@@ -133,9 +133,9 @@ Reduced handover time by 90% via real-time case tracking
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guzrex&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
+<img src="https://github-readme-stats.vercel.app/api?username=guzrex&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://nirzak-streak-stats.vercel.app/?user=guzrex&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
