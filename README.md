@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Alwasabi
 
-🛡️ Penetration Tester & SOC Analyst | Red & Blue Teamer | CVE Researcher  
+🛡️ Penetration Tester | Red Teamer | CVE Researcher  
 📍 Riyadh, Saudi Arabia  
 📧 abdullahalwasabi2003@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alwasabi)
